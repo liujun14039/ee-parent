@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ee-common/ee-common.iml" filepath="$PROJECT_DIR$/../ee-common/ee-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager-dao/ee-manager-dao.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager-dao/ee-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager-interface/ee-manager-interface.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager-interface/ee-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager-pojo/ee-manager-pojo.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager-pojo/ee-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager-service/ee-manager-service.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager-service/ee-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ee-manager/ee-manager-web/ee-manager-web.iml" filepath="$PROJECT_DIR$/../ee-manager/ee-manager-web/ee-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ee-parent.iml" filepath="$PROJECT_DIR$/ee-parent.iml" />
+    </modules>
+  </component>
+</project>
